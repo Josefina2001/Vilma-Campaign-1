@@ -1,0 +1,21 @@
+body{
+background : url("https://png.pngtree.com/thumb_back/fw800/back_pic/02/65/56/505788584f7ddf0.jpg");
+}
+#tayunimg{
+    width: 35%;
+    
+    }
+#tayun {
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    padding: 40px 0;
+}
+.vilma{
+    font-size:500px;
+}
+.basura,.garbage,.recojer{
+    width:50%;
+}
+
+
